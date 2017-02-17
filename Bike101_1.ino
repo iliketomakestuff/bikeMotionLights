@@ -16,6 +16,10 @@ Feel free to do whatever you'd like with it, but I cannot provide support for ge
    Intel(R) Curie(TM) module can be used to detect motion events
 */
 
+/*
+You must have these two libraries installed for this to work.
+Go to Sketch / Include Libraries / Manage Libraries above to add them.
+*/
 #include "CurieIMU.h"
 #include <Adafruit_NeoPixel.h>
 
